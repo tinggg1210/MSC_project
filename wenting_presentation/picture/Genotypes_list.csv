@@ -1,0 +1,61 @@
+BRISONr,Genotype,code,breeder,Year_of_release,Quality_recent,Release_state,Hybrid.status,Group,RYear
+12,Meister,BRISONr_12,RAGT/Mellinger,2010,A,Deutschland,non-hybrid,SK,2010
+13,KWS Santiago,BRISONr_13,KWS Lochow,2011,C,England,non-hybrid,SK,2011
+18,Paroli,BRISONr_18,DSV,2004,A,Deutschland,non-hybrid,SK,2004
+26,Patras,BRISONr_26,DSV,2012,A,Deutschland,non-hybrid,SK,2012
+29,Anapolis,BRISONr_29,NORDSAAT Saatzuchtgesellschaft,2013,C,Deutschland,non-hybrid,SK,2013
+31,Biscay,BRISONr_31,Lochow-Petkus,2000,C,Deutschland,non-hybrid,SK,2000
+35,Cubus,BRISONr_35,Lochow-Petkus,2002,A,Deutschland,non-hybrid,SK,2002
+44,Forum,BRISONr_44,Nordsaat Saatzucht,2012,A,DE/EE/PO/SE,non-hybrid,SK,2012
+47,Potenzial,BRISONr_47,DSV,2006,A,Deutschland,non-hybrid,SK,2006
+48,Gaucho,BRISONr_48,"USDA-ARS, Oklahoma AES",1993,NA,USA,non-hybrid,SK,NA
+49,Tarso,BRISONr_49,Saatzucht Hadmersleben,1992,A,Deutschland,non-hybrid,SK,1992
+50,Hermann,BRISONr_50,Limagrain-Nickerson,2004,C,Deutschland,non-hybrid,SK,2004
+54,Tobak,BRISONr_54,W.v.Borries-Eckendorf,2011,B,Deutschland,non-hybrid,SK,2011
+55,Pionier,BRISONr_55,Deutsche Saatveredelung,2013,A,Deutschland,non-hybrid,SK,2013
+60,Kalahari,BRISONr_60,LIMAGRAIN GmbH,2010,B,DE/BE,non-hybrid,SK,2010
+61,Intro,BRISONr_61,RAGT 2N,2011,B,Deutschland/Frankreich,non-hybrid,SK,2011
+66,Global,BRISONr_66,RAGT/Mellinger,2009,B,DE/AT,non-hybrid,SK,2009
+67,Elixer,BRISONr_67,v. Borris-Eckendorf,2012,C,Deutschland,non-hybrid,SK,2012
+80,Inspiration,BRISONr_80,Saatzucht Josef Breun GmbH & Co.KG,2007,B,Deutschland,non-hybrid,SK,2007
+83,Edgar,BRISONr_83,LIMAGRAIN GmbH,2010,B,Deutschland,non-hybrid,SK,2010
+87,Sponsor,BRISONr_87,Unisigma,1994,NA,"FR, IE",non-hybrid,SK,NA
+88,Impression,BRISONr_88,Saatzucht Schweiger GbR,2005,A,Deutschland,non-hybrid,SK,2005
+90,Toronto,BRISONr_90,Strengs Erben,1990,A,Deutschland,non-hybrid,SK,1990
+92,Contra,BRISONr_92,Saatzucht Breun,1990,C,Deutschland,non-hybrid,SK,1990
+97,Saturn,BRISONr_97,MPI,1973,C,Deutschland,non-hybrid,SK,1973
+99,JB Asano,BRISONr_99,Saatzucht Josef Breun GmbH & Co.KG,2008,A,Deutschland,non-hybrid,SK,2008
+100,Kerubino,BRISONr_100,Saatzucht Schmid Landau,2004,E,Deutschland,non-hybrid,SK,2004
+103,Orestis,BRISONr_103,"Strube, Dr. H.",1988,B,Deutschland,non-hybrid,SK,1988
+105,Anthus,BRISONr_105,KWS Lochow GmbH,2005,B,Deutschland,non-hybrid,SK,2005
+108,Herzog,BRISONr_108,Saatzucht Breun,1986,A,Deutschland,non-hybrid,SK,1986
+109,Sorbas,BRISONr_109,"Strube, Dr. H.",1985,B,Deutschland,non-hybrid,SK,1985
+111,Terrier,BRISONr_111,Nickerson,2001,B,Deutschland,non-hybrid,SK,2001
+118,Drifter,BRISONr_118,Nickerson,1999,B,Deutschland,non-hybrid,SK,1999
+119,Joss,BRISONr_119,Breustedt,1972,C,Deutschland,non-hybrid,SK,1972
+126,Disponent,BRISONr_126,Bayrische Saatzuchtgesellschaft,1975,A,Deutschland,non-hybrid,SL,1975
+130,Carisuper,BRISONr_130,Heidenreich und Eger,1975,A,Deutschland,non-hybrid,SL,1975
+134,Alidos,BRISONr_134,Saatzucht Hadmersleben,1987,E,Deutschland,non-hybrid,SL,1987
+136,Akratos,BRISONr_136,Strube Saatzucht,2004,A,Deutschland,non-hybrid,SL,2004
+150,Diplomat,BRISONr_150,Firlbeck,1966,A,Deutschland,non-hybrid,SL,1966
+161,Benno,BRISONr_161,"Bauer, G.",1973,E,Deutschland,non-hybrid,SL,1973
+166,Caribo,BRISONr_166,Heidenreich und Eger,1968,B,Deutschland,non-hybrid,SL,1968
+178,Cordiale,BRISONr_178,KWS UK Limited,2003,NA,England,non-hybrid,FK,NA
+180,Premio,BRISONr_180,RAGT,2006,B,Frankreich,non-hybrid,FK,2006
+193,Camp Remy,BRISONr_193,Unisigma,1980,B,Deutschland,non-hybrid,FK,1980
+201,Nimbus,BRISONr_201,Firlbeck,1975,B,Deutschland,non-hybrid,FK,1975
+213,Pegassos,BRISONr_213,Strube Saatzucht,1994,A,"AT, CH, DE, LT, PL, SI, SK",non-hybrid,FK,1994
+221,Julius,BRISONr_221,KWS Lochow,2008,A,Deutschland,non-hybrid,NA,2008
+222,RGT Reform,BRISONr_222,RAGT,2014,A,Deutschland,non-hybrid,NA,2014
+225,Nordkap,BRISONr_225,Nordsaat,2016,A,Deutschland,non-hybrid,NA,2016
+229,Astory,BRISONr_229,NA,2018,NA,NA,NA,NA,2018
+194,NA,NA,NA,NA,NA,Exotics,NA,NA,NA
+190,NA,NA,NA,NA,NA,Exotics,NA,NA,NA
+209,NA,NA,NA,NA,NA,Exotics,NA,NA,NA
+171,NA,NA,NA,NA,NA,Exotics,NA,NA,NA
+212,NA,NA,NA,NA,NA,Exotics,NA,NA,NA
+203,NA,NA,NA,NA,NA,Exotics,NA,NA,NA
+173,NA,NA,NA,NA,NA,Exotics,NA,NA,NA
+16,NA,NA,NA,NA,NA,Exotics,NA,NA,NA
+176,NA,NA,NA,NA,NA,Exotics,NA,NA,NA
+199,NA,NA,NA,NA,NA,Exotics,NA,NA,NA

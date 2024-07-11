@@ -1,0 +1,12 @@
+docs
+.Rproj.user
+.Rhistory
+.RData
+data
+result
+src/test
+doc
+StomataDetect/runs
+StomataDetect/Images
+StomataDetect/.idea
+runs
